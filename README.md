@@ -1,4 +1,8 @@
 NetduinoNrpe
 ============
 
-A Netduino NRPE (Nagios) daemon for environmental monitoring
+A Netduino NRPE (Nagios) daemon for environmental monitoring.
+
+Http://www.skyscratch.com/XXXXXX
+
+
